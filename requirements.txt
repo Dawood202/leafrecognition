@@ -2,3 +2,5 @@ tensorflow==2.15.0
 streamlit==1.29.0
 opencv-python
 keras==2.15.0
+PyOpenGL
+Pillow
